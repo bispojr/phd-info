@@ -1,8 +1,8 @@
 # PhD Info
-Repositório com as informações importantes sobre a minha pesquisa de doutorado no Centro de Informática (CIn/UFPE).
+Repositório com as informações importantes sobre a minha pesquisa de doutorado no Centro de Informática (CIn/UFPE) sob o título dessa pesquisa **"Análise da Capacidade dos Graduandos de Computação utilizando a Aprendizagem Autodirigida”**.
 
-## Geral
-O título dessa pesquisa **"Análise da Capacidade dos Graduandos de Computação utilizando a Aprendizagem Autodirigida”**. O motivo da pesquisa é compreender melhor como se dão as condições de estudo dos graduandos em computação, em relação à equidade, quando imersos em uma metodologia ativa. Por esse motivo, o objetivo da pesquisa é descrever esse cenário de aprendizagem dentro do bacharelado de Sistemas de Informação do Centro de Informática (CIn) da UFPE, atentando principalmente para as questões envolvendo a igualdade de oportunidades.
+## Motivação
+ O motivo da pesquisa é compreender melhor como se dão as condições de estudo dos graduandos em computação, em relação à equidade, quando imersos em uma metodologia ativa. Por esse motivo, o objetivo da pesquisa é descrever esse cenário de aprendizagem dentro do bacharelado de Sistemas de Informação do Centro de Informática (CIn) da UFPE, atentando principalmente para as questões envolvendo a igualdade de oportunidades.
 
 ## Aprovação no Comitê de Ética
 Essa pesquisa foi devidamente submetida e aprovada no Comitê de Ética em Pesquisa da Universidade Federal de Pernambuco (UFPE) sob o número CAAE 68111823.3.0000.5208 no dia 10 de maio de 2023.
