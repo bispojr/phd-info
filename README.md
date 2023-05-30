@@ -1,6 +1,9 @@
 # PhD Info
 Repositório com as informações importantes sobre a minha pesquisa de doutorado no Centro de Informática (CIn/UFPE) sob o título dessa pesquisa **"Análise da Capacidade dos Graduandos de Computação utilizando a Aprendizagem Autodirigida”**.
 
+## Vídeo com a apresentação da pesquisa
+Disponível no seguinte link: [https://github.com/bispojr/phd-info/raw/main/video-apresentacao.mp4].
+
 ## Motivação
  O motivo da pesquisa é compreender melhor como se dão as condições de estudo dos graduandos em computação, em relação à equidade, quando imersos em uma metodologia ativa. Por esse motivo, o objetivo da pesquisa é descrever esse cenário de aprendizagem dentro do bacharelado de Sistemas de Informação do Centro de Informática (CIn) da UFPE, atentando principalmente para as questões envolvendo a igualdade de oportunidades.
 
