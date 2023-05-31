@@ -13,9 +13,9 @@ Essa pesquisa foi devidamente submetida e aprovada no Comitê de Ética em Pesqu
 ## TCLE
 
 Os termos de consentimento livre e esclarecido (TCLE) estão disponíveis nos links a seguir:
-- [TCLE para estudantes](https://github.com/bispojr/phd-info/blob/main/tcle-estudante.pdf);
-- [TCLE para clientes reais](https://github.com/bispojr/phd-info/blob/main/tcle-cliente-real.pdf);
-- [TCLE para professores/tutores](https://github.com/bispojr/phd-info/blob/main/tcleProfTutor.pdf).
+- [TCLE para estudantes](tcle/tcle-estudante.pdf);
+- [TCLE para clientes reais](tcle/tcle-cliente-real.pdf);
+- [TCLE para professores/tutores](tcle/tcle-prof-tutor.pdf).
 
 ## Questionário Socioeconômico
 Disponível no seguinte link: [https://forms.gle/HvyiQmk9UNUS9FcA8].
