@@ -18,7 +18,7 @@ Os termos de consentimento livre e esclarecido (TCLE) estão disponíveis nos li
 - [TCLE para professores/tutores](tcle/tcle-prof-tutor.pdf).
 
 ## Questionário Socioeconômico
-Disponível no seguinte link: [https://forms.gle/HvyiQmk9UNUS9FcA8].
+Disponível no seguinte link: [https://forms.gle/eaP1P1awVeVUrS9AA].
 
 ## Contatos
 **Pesquisador Responsável:** Esdras Lins Bispo Junior | elbj@cin.ufpe.br <br>
