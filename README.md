@@ -20,6 +20,9 @@ Os termos de consentimento livre e esclarecido (TCLE) estão disponíveis nos li
 ## Questionário Socioeconômico
 Disponível no seguinte link: [https://forms.gle/eaP1P1awVeVUrS9AA].
 
+## Trabalhos Relacionados
+Planilha com todos os artigos coletados e as principais decisões tomadas durante o processo do mapeamento: [https://docs.google.com/spreadsheets/d/11FU2cpWyIH0HyYo0qkrGxA_A3Bp2cz3rZnsNMWP268Y/edit?usp=sharing].
+
 ## Contatos
 **Pesquisador Responsável:** Esdras Lins Bispo Junior | elbj@cin.ufpe.br <br>
 **Pesquisadora Orientadora:** Profa. Simone Cristiane Santos| scs@cin.ufpe.br
